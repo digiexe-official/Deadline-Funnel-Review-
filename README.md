@@ -108,8 +108,6 @@ For GitHub users, integrating Deadline Funnel into a static site is straightforw
 **Add to GitHub:** Open your index.html in your GitHub repo, paste the script in the <head> tag, and push the update.
 **Embed Timers:** Use the provided HTML snippet where you want the timer (e.g., above your CTA button).
 
-## Competitor Comparison
-
 ## How does Deadline Funnel stack up? Let’s compare:
 
 **Thrive Ultimatum:** $97 one-time (WordPress only). Cheaper but lacks cross-device syncing and email timers.
